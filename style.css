@@ -126,7 +126,7 @@ nav {
   justify-content: center;
   flex-direction: column;
   gap: 2rem;
-  background-color: var(--primary-color-light);
+  background-color: #ffffff;
   transition: 0.5s;
   z-index: -1;
   transform: translateY(-100%);
@@ -138,11 +138,11 @@ nav {
 
 .nav__links a {
   font-weight: 500;
-  color: var(--primary-color);
+  color: #ffffff;
 }
 
 .nav__links a:hover {
-  color: var(--text-dark);
+  color: #fff450;
 }
 
 .nav__btn {

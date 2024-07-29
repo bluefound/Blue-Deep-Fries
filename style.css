@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
-  --primary-color: linear-gradient(135deg, #4a90e2 0%, #00c6ff 100%);
-  --primary-color-light:linear-gradient(135deg, #4a90e2 0%, #3b5998 100%);
-  --primary-color-dark:  linear-gradient(135deg, #4a90e2 0%, #00c6ff 100%);
+ --primary-color: #fc3f02;
+  --primary-color-light: #ffbcfa;
+  --primary-color-dark: #db8e09;
   --text-dark: #18181b;
   --text-light: #6b7280;
   --white: #ffffff;

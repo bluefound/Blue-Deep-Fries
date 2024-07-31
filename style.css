@@ -85,6 +85,7 @@ body {
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color:  #fc7f09;
 }
 
 nav {
@@ -125,7 +126,7 @@ nav {
   justify-content: center;
   flex-direction: column;
   gap: 2rem;
-  background-color: var(--primary-color-light);
+  background-color:  #fc7f09;
   transition: 0.5s;
   z-index: -1;
   transform: translateY(-100%);

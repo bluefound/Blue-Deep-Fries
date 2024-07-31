@@ -57,7 +57,7 @@
 .logo a {
   font-size: 1.5rem;
   font-weight: 700;
-  color: var(--primary-color);
+  color: #FFA500;
 }
 
 .logo a span {
@@ -85,7 +85,7 @@ body {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #FFF5EE;
+  background-color: Beige: #F5F5DC;
 }
 
 nav {

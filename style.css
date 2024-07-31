@@ -490,7 +490,7 @@ nav {
   margin-bottom: 1rem;
   font-size: 1.2rem;
   font-weight: 600;
-  color: var(--text-dark);
+  color: #ffffff;
 }
 
 .footer__links {
@@ -499,7 +499,7 @@ nav {
 }
 
 .footer__links a {
-  color: var(--text-light);
+  color: #ffffff;
 }
 
 .footer__links a:hover {

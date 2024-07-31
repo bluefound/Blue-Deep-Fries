@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
- --primary-color:  ##FFA500;
-  --primary-color-light:  #FF8C00;
-  --primary-color-dark: # #FA8072;
-  --text-dark: #ffffff;
-  --text-light: #ffffff;
+  --primary-color: #fc7f09;
+  --primary-color-light: #fffcfa;
+  --primary-color-dark: #db6e09;
+  --text-dark: #18181b;
+  --text-light: #6b7280;
   --white: #ffffff;
   --max-width: 1200px;
 }
@@ -27,7 +27,7 @@
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 3rem;
-  color: #CC5500;
+  color: var(--text-dark);
   text-align: center;
 }
 
@@ -44,7 +44,7 @@
   white-space: nowrap;
   font-size: 1rem;
   color: var(--white);
-  background-color: #FF8C00;
+  background-color: var(--primary-color);
   border-radius: 10px;
   transition: 0.3s;
   cursor: pointer;
@@ -85,7 +85,6 @@ body {
 
 body {
   font-family: "Poppins", sans-serif;
-  background: #FA8072;
 }
 
 nav {
@@ -110,7 +109,7 @@ nav {
 
 .nav__menu__btn {
   font-size: 1.5rem;
-  color: #008080;
+  color: var(--white);
   cursor: pointer;
 }
 
@@ -126,7 +125,7 @@ nav {
   justify-content: center;
   flex-direction: column;
   gap: 2rem;
-  background-color: #000080;
+  background-color: var(--primary-color-light);
   transition: 0.5s;
   z-index: -1;
   transform: translateY(-100%);
@@ -138,11 +137,11 @@ nav {
 
 .nav__links a {
   font-weight: 500;
-  color: #ffffff;
+  color: var(--primary-color);
 }
 
 .nav__links a:hover {
-  color: #fff450;
+  color: var(--text-dark);
 }
 
 .nav__btn {
@@ -490,7 +489,7 @@ nav {
   margin-bottom: 1rem;
   font-size: 1.2rem;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--text-dark);
 }
 
 .footer__links {

@@ -2,7 +2,7 @@
 
 :root {
  --primary-color:  #000080;
-  --primary-color-light:  #000080;
+  --primary-color-light:  #FF8C00;
   --primary-color-dark: #ADD8E6;
   --text-dark: #ffffff;
   --text-light: #ffffff;
@@ -490,7 +490,7 @@ nav {
   margin-bottom: 1rem;
   font-size: 1.2rem;
   font-weight: 600;
-  color: var(--text-dark);
+  color: #ffffff;
 }
 
 .footer__links {

@@ -27,7 +27,7 @@
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 3rem;
-  color: var(--text-dark);
+  color: #CC5500;
   text-align: center;
 }
 
@@ -44,7 +44,7 @@
   white-space: nowrap;
   font-size: 1rem;
   color: var(--white);
-  background-color: var(--primary-color);
+  background-color: #FF8C00;
   border-radius: 10px;
   transition: 0.3s;
   cursor: pointer;

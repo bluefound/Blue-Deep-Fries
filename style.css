@@ -505,7 +505,7 @@ color: #ffffff;
 }
 
 .footer__links a:hover {
-  color: var(--primary-color-dark);
+  color: var(--text-dark);
 }
 
 .footer__bar {

@@ -496,6 +496,7 @@ nav {
 .footer__links {
   display: grid;
   gap: 0.75rem;
+color: #ffffff;
 }
 
 .footer__links a {
@@ -503,7 +504,7 @@ nav {
 }
 
 .footer__links a:hover {
-  color: var(--primary-color);
+  color: var(--primary-color-dark);
 }
 
 .footer__bar {
